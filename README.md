@@ -16,7 +16,7 @@ Lexical rules for the programming language STAR are as follows:
 •	Maximum identifier size is 10 characters. If you use an identifier larger than that, the lexical analyzer issues an error message.
 •	STAR is case sensitive and all the keywords are lower case. Identifiers can use both upper/lower case.
 •	Identifiers start with an alphabetic character (a letter) and are composed of one or more letters/digits/_ (underscore)
-•	Example Token: Identifier(my_var_1)
+•	Example Token: Identifier(my_var_1) <br>
 2- Integer constants:
 •	Maximum integer size is 8 digits. If you use an integer value longer than that, the lexical analyzer issues an error message.
 •	Negative values are not supported.
