@@ -48,21 +48,16 @@ Lexical rules for the programming language STAR are as follows:
 •	If a comment fails to terminate before the file end, there should be a lexical error issued.
 •	Comments are just like blank space and they create no tokens.<br>
 ------------------------------------------------------------------------
-
+<br>
 1st Project Defn: The Program should accept a source file called code.sta and produce a text file named as code.lex that contains all the tokens listed one after the other.
 Example: The line 
-c is c/2.
-Would produce:
-Identifier(c)
-Keyword(is)
-Identifier(c)
-Operator(/)
-EndOfLine
+<br>
+c is c/2.<br>
+Would produce:<br>
+Identifier(c)<br>
+Keyword(is)<br>
+Identifier(c)<br>
+Operator(/)<br>
+EndOfLine<br>
 
-Teams: 1..2 students
-Deadline:6th May 2024
-Deliverables:
-1-	Source code (Hard copy)
-2-	Executable file(s) (Electronic)
-3-	Demonstration (Please make an appointment with one of your lab instructors.)
 
