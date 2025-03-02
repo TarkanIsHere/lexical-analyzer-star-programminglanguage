@@ -1,4 +1,4 @@
-STAR PROGRAMMING LANGUAGE
+# STAR PROGRAMMING LANGUAGE
 
 STAR language is a small scripting language that can be used for performing basic arithmetical operations. It supports only two data types: integers and strings. Integers can only take positive values and would take the value zero when forced to take a negative value. Assignments in STAR can have arithmetic expressions with two, operands only. Complicated expressions are not allowed.
 Basic Star Example:
